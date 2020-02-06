@@ -37,15 +37,17 @@ To get more help on the Angular CLI use ng help or go check out the [Angular CLI
 3. It's finish !
  home page
 
-![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/journaliste.PNG)
+![API page](https://github.com/zolomazizi/Front_end-AngularP2/blob/master/slidePNG.PNG)
+
+![API page](https://github.com/zolomazizi/Front_end-AngularP2/blob/master/Artilcee.PNG)
 
 > article page
 
-![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/redactionchef.PNG)
+![API page](https://github.com/zolomazizi/Front_end-AngularP2/blob/master/Artilcee.PNG)
 
 > journaliste page
 
-![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/api.PNG)
+![API page](https://github.com/zolomazizi/Front_end-AngularP2/blob/master/journalist.PNG)
 
 
 ![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/pub.PNG)
