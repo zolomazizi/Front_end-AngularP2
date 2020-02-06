@@ -1,6 +1,6 @@
 # Front_end-AngularP2
 
-# Newslatter dashboard
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.23.
 
@@ -35,20 +35,18 @@ To get more help on the Angular CLI use ng help or go check out the [Angular CLI
 1. Clone This Repo with the following link git clonehttps://github.com/zolomazizi/DashboardAngular.git
 2. inside project open new terminale and run the following line  npm i 
 3. It's finish !
- Liste des Journalistes page
+ home page
 
 ![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/journaliste.PNG)
 
-> Chef de Rédaction page
+> article page
 
 ![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/redactionchef.PNG)
 
-> API page
+> journaliste page
 
 ![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/api.PNG)
 
-
-> Publicité page
 
 ![API page](https://github.com/zolomazizi/DashboardAngular/blob/master/DashboardAngular/Angular-dashboard-master/pub.PNG)
 > login page
