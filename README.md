@@ -39,7 +39,7 @@ To get more help on the Angular CLI use ng help or go check out the [Angular CLI
 
 ![API page](https://github.com/zolomazizi/Front_end-AngularP2/blob/master/slidePNG.PNG)
 
-![API page](https://github.com/zolomazizi/Front_end-AngularP2/blob/master/Artilcee.PNG)
+![API page](https://github.com/zolomazizi/Front_end-AngularP2/blob/master/onearticlee.PNG)
 
 > article page
 
